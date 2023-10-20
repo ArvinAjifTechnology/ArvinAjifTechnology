@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Satria Arvin Muhammad Ajif 👋
 
 
