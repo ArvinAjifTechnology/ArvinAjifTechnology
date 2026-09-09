@@ -4,7 +4,7 @@
 
 I'm a Software Engineering graduate who enjoys building web applications, designing backend systems, and turning ideas into reliable software.
 
-My main focus is **Backend Development**, especially with **PHP and Laravel ❤️**.
+My main focus is **Backend Development**, with **PHP and Laravel** as the technologies I work with most.
 
 I enjoy learning how systems work behind the scenes — from application logic and databases to authentication, authorization, APIs, testing, and software architecture.
 
@@ -12,27 +12,25 @@ I enjoy learning how systems work behind the scenes — from application logic a
 
 ## 💻 Tech Stack
 
-### ❤️ Backend
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-**PHP + Laravel — kesayangan kita semua. ❤️**
-
-### 🗄️ Database
+### Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🌐 Web & Frontend
+### Web & Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
@@ -74,7 +72,7 @@ I enjoy learning how systems work behind the scenes — from application logic a
 
 Software engineering is a continuous journey.
 
-I'm always exploring better ways to write **cleaner code, design better systems, solve problems, and build software that actually matters.**
+I'm always exploring better ways to write cleaner code, design better systems, solve problems, and build software that is reliable and maintainable.
 
 ---
 
@@ -89,5 +87,5 @@ I'm always exploring better ways to write **cleaner code, design better systems,
 ---
 
 <p align="center">
-  <i>Build it. Break it. Fix it. Learn from it. 🚀</i>
+  <i>Build it. Test it. Improve it.</i>
 </p>
