@@ -24,12 +24,6 @@ I enjoy learning how systems work behind the scenes — from application logic a
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### Web & Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite" />
-</p>
-
 ### Tools
 
 <p align="left">
