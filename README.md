@@ -1,11 +1,19 @@
 ### Hi there 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/ArvinAjifTechnology/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvinAjifTechnology&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvinAjifTechnology&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinAjifTechnology&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center">
+  <img src="https://codewars.com" alt="Codewars Badge" /><br /><br />
+  
+  <!-- Menggunakan GitHub Stats Extended + cache bypass -->
+  <img src="https://vercel.app" alt="Arvin's GitHub stats" /><br />
+  
+  <!-- Streak stats + cache bypass -->
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+  
+  <!-- Top Languages via GitHub Stats Extended + cache bypass -->
+  <img src="https://vercel.app" alt="Top Languages" /><br />
 </p>
+
 
 <!--
 **ArvinAjifTechnology/ArvinAjifTechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
