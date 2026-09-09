@@ -1,43 +1,58 @@
 # Hi there, I'm Arvin Muhammad Ajif 👋
 
-### Software Engineer • Laravel Developer • Full-Stack Developer
+### Backend Developer • Software Engineering
 
-I'm a Software Engineering graduate passionate about building **reliable, maintainable, and user-focused software**.
+I'm a Software Engineering graduate who enjoys building web applications, designing backend systems, and turning ideas into reliable software.
 
-I enjoy working on backend development, web applications, database design, authentication & authorization, and software architecture.
+My main focus is **Backend Development**, especially with **PHP and Laravel ❤️**.
+
+I enjoy learning how systems work behind the scenes — from application logic and databases to authentication, authorization, APIs, testing, and software architecture.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Backend
+### ❤️ Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-### Frontend
+**PHP + Laravel — kesayangan kita semua. ❤️**
 
-<p>
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🌐 Web & Frontend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite" />
 </p>
 
-### Database & Tools
+### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-### Frameworks & Libraries
+> My primary focus is backend development. The technologies above are tools and technologies I've worked with throughout my development journey.
 
-* Laravel
-* Filament
-* Laravel Breeze
-* Laravel Sanctum
-* Spatie Permission
-* Spatie Activity Log
-* Pest
-* Laravel Dusk
+---
+
+## 🧠 What I Enjoy
+
+* 🏗️ Backend development
+* 🧩 Building web applications
+* 🗄️ Database design & management
+* 🔐 Authentication & authorization
+* 🔌 API development & integration
+* 🧪 Automated testing
+* 🏛️ Software architecture
+* 🔍 Debugging & problem solving
+* 📚 Learning new technologies
 
 ---
 
@@ -55,31 +70,11 @@ I enjoy working on backend development, web applications, database design, authe
 
 ---
 
-## 🧠 Areas of Interest
+## 🌱 Always Learning
 
-```text
-Software Engineering
-Backend Development
-Web Development
-Laravel Ecosystem
-Software Architecture
-Database Design
-Authentication & Authorization
-API Development
-Automated Testing
-Application Security
-```
+Software engineering is a continuous journey.
 
----
-
-## 🎓 About Me
-
-* 🎓 Software Engineering graduate
-* 💻 Passionate about building web applications
-* 🧩 Interested in clean and maintainable code
-* 🔐 Interested in application security
-* 🧪 Believe in testing software, not just building it
-* 🚀 Always learning and improving
+I'm always exploring better ways to write **cleaner code, design better systems, solve problems, and build software that actually matters.**
 
 ---
 
@@ -94,5 +89,5 @@ Application Security
 ---
 
 <p align="center">
-  <i>"Build it. Test it. Improve it."</i>
+  <i>Build it. Break it. Fix it. Learn from it. 🚀</i>
 </p>
