@@ -51,7 +51,7 @@ I enjoy learning how systems work behind the scenes — from application logic a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArvinAjifTechnology&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArvinAjifTechnology&show_icons=true&include_all_commits=true&count_private=false&hide_border=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinAjifTechnology&layout=compact&langs_count=8&hide_border=true" />
 </p>
